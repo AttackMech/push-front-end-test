@@ -1,0 +1,15 @@
+#search-box {
+    border: 3px solid #ebf0f6;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    padding: 7px 10px;
+    width: 100%;
+}
+
+.search-full-width {
+    width: 100%;
+}
+
+.search-half-width {
+    width: 50%;
+}

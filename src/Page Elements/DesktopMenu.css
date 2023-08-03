@@ -1,0 +1,34 @@
+.desktop-menu-items {
+    display: flex;
+    flex-direction: column;
+}
+
+.desktop-menu-title {
+    align-items: center;
+    display: flex;
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+
+.desktop-title {
+    display: flex;
+}
+
+.logo-container {
+    padding: 15px;
+}
+
+.logo-container img {
+    height: 36px;
+    width: 36px;
+}
+
+.menu-item {
+    font-family: 'Roboto';
+    padding: 10px 0px 10px 20px;
+}
+
+.menu-item-current {
+    background-color: #f4f6f9;
+    font-weight: 700;
+}

@@ -1,0 +1,43 @@
+.card-container {
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.card-container-desktop {
+    width: 25%;
+}
+
+.card-container-mobile {
+    width: 50%;
+}
+
+.employee-card {
+    background-color: #fff;
+    border: 1px solid #ebf0f6;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.employee-name {
+    font-family: 'Roboto';
+    font-size: 1.25em;
+    font-weight: 700;
+}
+
+.employee-name :nth-child(1) {
+    margin-right: 0.5rem;
+}
+
+.total-hours-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.total-hours-label {
+    font-family: 'Roboto';
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}

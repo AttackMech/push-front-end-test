@@ -1,0 +1,9 @@
+Hi there Push team!
+
+I made this react app using node's create-react-app. With node installed, you can run `npm start` from the command line in the project folder to start the project and it should open automatically in a browser. I didn't use any special depedencies for the project, but you may still need to run `npm install` if you run into any issues.
+
+Looking forward to your feedback!
+
+Cheers,
+
+Jason

@@ -1,0 +1,22 @@
+.employee-cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px -10px;
+}
+
+.employee-container-desktop {
+    width: 100%;
+    padding: 20px;
+}
+
+.employee-container-mobile {
+    width: 75%;
+    padding-top: 20px;
+}
+
+.no-match {
+    font-family: 'Roboto';
+    font-weight: 700;
+    padding-top: 20px;
+    text-align: center;
+}
